@@ -1,5 +1,7 @@
 # Not-SSH
-Execute commands from another computer in LAN using Python.
+Execute commands from another computer in LAN using Python.  
+
+       
 `This was made as A practical joke to control my friends computers by executing commands remotely`
 ### cool
 
